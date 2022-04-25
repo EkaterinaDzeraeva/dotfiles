@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = katja.dzeraeva@gmail.com
+	name = Ekaterina Dzeraeva
